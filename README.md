@@ -23,4 +23,5 @@ f2p.py and f2color.py differences:
 
 2- f2p.py store 3 bytes at each pixel but f2color.py store 2 bytes at each 4 pixels.
 
-3- f2p.py has no data limit size to storing file data to image but f2color.py has data limit size to storing file data to image depends on image resolution.
+3- f2p.py has no data limit size to storing file data to an image but f2color.py has data limit size to storing file data to an existing image depends on image resolution.
+
